@@ -1,0 +1,12 @@
+git init
+git config --global user.name
+git config --global user.email
+
+
+git status  # 깃 상태 확인
+            # [U] Untracked files - 관심 밖의 파일
+            # [A] Changes to be committed - 복사 상태
+            # [M] Modified - 수정된 상태
+
+
+git add -A  # 모든 파일을 관심사로
