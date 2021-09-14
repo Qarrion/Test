@@ -18,4 +18,4 @@ git log     # commit 03f59066c3b352a51a24d2b71bd5687ae637b9c7
 vi 에디터 접속시 # ;q 로 빠저나올수 있다.
 
 git reset xxxxxx --hard #미련 없이 과거로
-
+git revert xxxxxx
