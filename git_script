@@ -19,3 +19,4 @@ vi 에디터 접속시 # ;q 로 빠저나올수 있다.
 
 git reset xxxxxx --hard #미련 없이 과거로
 
+git branch test_b
